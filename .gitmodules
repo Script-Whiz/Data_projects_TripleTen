@@ -10,3 +10,18 @@
     path = Sprint14_Chapter2_TextVectorization
     url = https://github.com/Script-Whiz/Sprint14_Chapter2_TextVectorization.git
 
+[submodule "Sprint13_SweetTaxi_timeSeries"]
+	path = Sprint13_SweetTaxi_timeSeries
+	url = https://github.com/Script-Whiz/Sprint13_SweetTaxi_timeSeries.git
+
+[submodule "Sprint12_RustyCar_GradBoost"]
+	path = Sprint12_RustyCar_GradBoost
+	url = https://github.com/Script-Whiz/Sprint12_RustyCar_GradBoost.git
+
+[submodule "Sprint11_Ins_US_matrix"]
+	path = Sprint11_Ins_US_matrix
+	url = https://github.com/Script-Whiz/Sprint11_Ins_US_matrix.git
+
+[submodule "Sprint10_Gold_Recovery"]
+	path = Sprint10_Gold_Recovery
+	url = https://github.com/Script-Whiz/Sprint10_Gold_Recovery.git
