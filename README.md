@@ -163,4 +163,22 @@ Studies the gold purification process. Uses predictive models are built to predi
 ##### Link to open final .ipynb file:
   - [Sprint10_Gold_Recovery](https://github.com/Script-Whiz/Sprint10_Gold_Recovery/blob/main/notebooks/Gold_Recovery_ver6_final.ipynb)
 
+## Sprint9_OG_Mining_MLB
+Analyze ore refinery process for Oily Giant Company. Find profit margin, revenue prediction for best site for digging new well, profitability threshhold, probability of loss. Bootstrapping used. Multiple datasets used.
+
+##### Libraries used:
+- **Pandas**: For data manipulation and analysis.
+- **NumPy**: For numerical computations and array operations.
+- **Scikit-learn**: For machine learning tasks, including model training and evaluation.
+- **IPython**: For interactive computing (used for displaying outputs in Jupyter).
+- **Matplotlib**: For data visualization.
+- **Plotly**: For interactive data visualizations (using `graph_objects` and `io`).
+- **Termcolor**: For colored terminal text outputs.
+
+##### Models Used:
+- **Linear Regression**: For basic linear modeling
+
+##### Link to open final .ipynb file:
+  - [Sprint9_OG_Mining_MLB](https://github.com/Script-Whiz/Sprint9_OG_Mining_MLB/blob/main/notebooks/OG_mining_ver5_final.ipynb)
+
 
