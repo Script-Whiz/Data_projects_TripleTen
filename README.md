@@ -181,4 +181,21 @@ Analyze ore refinery process for Oily Giant Company. Find profit margin, revenue
 ##### Link to open final .ipynb file:
   - [Sprint9_OG_Mining_MLB](https://github.com/Script-Whiz/Sprint9_OG_Mining_MLB/blob/main/notebooks/OG_mining_ver5_final.ipynb)
 
+## Sprint8_Churn_Beta
+Discovering churn rates of customers using supervised learning, One hot encoding, EDA, data visualization using different types of graphs, balancing of data using downsampling. Scoring, using Accuracy, Precision, Recall, F1 score, and AUC-ROC.
 
+##### Libraries used:
+- **Pandas**: For data manipulation and analysis.
+- **NumPy**: For numerical computations and operations.
+- **Scikit-learn**: For various machine learning tasks including model training and evaluation.
+- **Plotly Express**: For interactive data visualizations.
+
+##### Models Used:
+- **Decision Tree Classifier**: For classification using decision tree algorithms.
+- **Logistic Regression**: For binary classification problems.
+
+##### Link to open final .ipynb file:
+  - [Sprint8_Churn_Beta](https://github.com/Script-Whiz/Sprint8_Churn_Beta/blob/main/notebooks/Sprint8_BetaBank_Churn_ver6.ipynb)
+
+
+- **Random Forest Classifier**: For ensemble classification using multiple decision trees
