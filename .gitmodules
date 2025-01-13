@@ -56,5 +56,24 @@
     path = Sprint4_Auto_Comparison
     url = https://github.com/Script-Whiz/Sprint4_Auto_Comparison.git
 
+[submodule "Sprint3_MegalinePhone_revenue"]
+	path = Sprint3_MegalinePhone_revenue
+	url = https://github.com/Script-Whiz/Sprint3_MegalinePhone_revenue.git
+[submodule "Sprint2_Instacart_EDA"]
+	path = Sprint2_Instacart_EDA
+	url = https://github.com/Script-Whiz/Sprint2_Instacart_EDA.git
+[submodule "Sprint1_DataCleaning"]
+	path = Sprint1_DataCleaning
+	url = https://github.com/Script-Whiz/Sprint1_DataCleaning.git
 
+[submodule "Sprint3_MegalinePhone_revenue"]
+    path = Sprint3_MegalinePhone_revenue
+    url = https://github.com/Script-Whiz/Sprint3_MegalinePhone_revenue.git
 
+[submodule "Sprint2_Instacart_EDA"]
+    path = Sprint2_Instacart_EDA
+    url = https://github.com/Script-Whiz/Sprint2_Instacart_EDA.git
+
+[submodule "Sprint1_DataCleaning"]
+    path = Sprint1_DataCleaning
+    url = https://github.com/Script-Whiz/Sprint1_DataCleaning.git
