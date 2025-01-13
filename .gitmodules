@@ -1,3 +1,8 @@
 [submodule "Sprint17_Interconnect_Churn"]
     path = Sprint17_Interconnect_Churn
     url = https://github.com/Script-Whiz/Sprint17_Interconnect_Churn.git
+
+[submodule "Sprint15_CNN_agePrediction"]
+    path = Sprint15_CNN_agePrediction
+    url = https://github.com/Script-Whiz/Sprint15_CNN_agePrediction.git
+
