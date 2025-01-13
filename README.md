@@ -1,7 +1,37 @@
-# Data_projects_TripleTen
+TABLE OF CONTENTS:
+
+## TABLE OF CONTENTS
 Python projects created while at the Triple Ten Data Science bootcamp, by Deborah Thomas
 
-Compilation of all projects completed throughout TripleTen's Data Science professional training program.
+## Sprint17_Interconnect_Churn_project
+Build a model that predicts which customers will churn.  The evaluation metric is AUC-ROC, and must have a score greater than or equal to 0.75.
+## Libraries used:
+- **NumPy**: For numerical calculations and handling large arrays efficiently.
+- **Pandas**: Essential for data analysis and preprocessing of datasets.
+- **Matplotlib**: For data visualization to create informative plots.
+- **Seaborn**: Enhances visualizations and provides a high-level interface for drawing attractive graphics.
+- **Scikit-learn**: Core library for machine learning that includes various algorithms and tools for model evaluation.
+- **Statsmodels**: For statistical modeling and hypothesis testing.
+- **Keras/TensorFlow**: Frameworks for building and training neural network models
 
-TABLE OF CONTENTS:
+##Models used:
+- **Random Forest Classifier**: 
+  - Imported from `sklearn.ensemble` to handle classification tasks.
+  
+- **Gradient Boosting Classifier**: 
+  - Also from `sklearn.ensemble`, used for boosting techniques to improve accuracy.
+  
+- **Decision Tree Classifier**: 
+  - Imported from `sklearn.tree`, a basic yet powerful classification model.
+  
+- **Support Vector Classifier (SVC)**:
+  - From `sklearn.svm`, effective for high-dimensional spaces.
+  
+- **Logistic Regression**: 
+  - Imported from `sklearn.linear_model`, commonly used for binary classification problems.
+
+## Link to open final .ipynb file:
+https://github.com/Script-Whiz/Sprint17_Interconnect_Churn/blob/0f1208183f323112ee2305210d1bb061a3c5d2c9/notebooks/Sprint17_Interconnect_Churn_ver3.ipynb1. [Sprint17_Interconnect_Churn_project](#sprint17_interconnect_churn_project)
+   - Build a model that predicts which customers will churn. The evaluation metric is AUC-ROC, and must have a score greater than or equal to 0.75.
+   - [Final .ipynb file](https://github.com/Script-Whiz/Sprint17_Interconnect_Churn/blob/0f1208183f323112ee2305210d1bb061a3c5d2c9/notebooks/Sprint17_Interconnect_Churn_ver3.ipynb)
 
