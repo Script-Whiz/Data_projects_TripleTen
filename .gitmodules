@@ -25,3 +25,36 @@
 [submodule "Sprint10_Gold_Recovery"]
 	path = Sprint10_Gold_Recovery
 	url = https://github.com/Script-Whiz/Sprint10_Gold_Recovery.git
+[submodule "Sprint9_OG_Mining_MLB"]
+	path = Sprint9_OG_Mining_MLB
+	url = https://github.com/Script-Whiz/Sprint9_OG_Mining_MLB.git
+[submodule "Sprint8_Churn_Beta"]
+	path = Sprint8_Churn_Beta
+	url = https://github.com/Script-Whiz/Sprint8_Churn_Beta.git
+
+[submodule "Sprint9_OG_Mining_MLB"]
+    path = Sprint9_OG_Mining_MLB
+    url = https://github.com/Script-Whiz/Sprint9_OG_Mining_MLB.git
+
+[submodule "Sprint8_Churn_Beta"]
+    path = Sprint8_Churn_Beta
+    url = https://github.com/Script-Whiz/Sprint8_Churn_Beta.git
+
+[submodule "Sprint7_Intro_MachineLearning"]
+    path = Sprint7_Intro_MachineLearning
+    url = https://github.com/Script-Whiz/Sprint7_Intro_MachineLearning.git
+
+[submodule "Sprint6_Zuber_rides_time"]
+    path = Sprint6_Zuber_rides_time
+    url = https://github.com/Script-Whiz/Sprint6_Zuber_rides_time.git
+
+[submodule "Sprint5_VideoGames_imputation"]
+    path = Sprint5_VideoGames_imputation
+    url = https://github.com/Script-Whiz/Sprint5_VideoGames_imputation.git
+
+[submodule "Sprint4_Auto_Comparison"]
+    path = Sprint4_Auto_Comparison
+    url = https://github.com/Script-Whiz/Sprint4_Auto_Comparison.git
+
+
+
