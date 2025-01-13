@@ -199,7 +199,7 @@ Discovering churn rates of customers using supervised learning, One hot encoding
   - [Sprint8_Churn_Beta](https://github.com/Script-Whiz/Sprint8_Churn_Beta/blob/main/notebooks/Sprint8_BetaBank_Churn_ver6.ipynb)
 
 ## Sprint7_Intro_MachineLearning
-Supervised Learning, and hypertuning of models for MegaLine Phone Company.  Using EDA and Data Visualization to find which phone plan is best: Smart or Ulta  Scoring used: Accuracy
+Supervised Learning, and hypertuning of models for MegaLine Phone Company.  Using EDA and Data Visualization to find which phone plan is best: Smart or Ulta     Scoring used: Accuracy
 
 ##### Libraries used:
 - **Pandas**: For data manipulation and analysis.
@@ -210,3 +210,20 @@ Supervised Learning, and hypertuning of models for MegaLine Phone Company.  Usin
 - **Decision Tree Classifier**: For classification tasks using a decision tree approach.
 - **Logistic Regression**: For binary classification problems.
 - **Random Forest Classifier**: For ensemble classification using multiple decision trees.
+
+##### Link to open final .ipynb file:
+  - [Sprint7_Intro_MachineLearning](https://github.com/Script-Whiz/Sprint7_Intro_MachineLearning/blob/main/notebooks/Sprint7_Intro_MachineLearning_version7_final.ipynb)
+
+## Sprint6_Zuber_rides_time
+Time Series analysis of Zuber rides. Merging databases, EDA, hypothesis testing. Looking at data, from competitors, and testing a hypothesis about the impact of weather on ride frequency, identifying the top 10 neighborhoods, in terms of drop-offs, and making conclusions from data visualization.
+
+##### Libraries used:
+- **Pandas**: For data manipulation and analysis.
+- **Plotly Express**: For interactive data visualizations.
+- **SciPy Stats**: For statistical functions and distributions
+
+##### Link to open final .ipynb file:
+  - [Sprint6_Zuber_rides_time](https://github.com/Script-Whiz/Sprint6_Zuber_rides_time/blob/main/notebooks/Sprint6_Zuber_rides_time_ver4_final.ipynb)
+
+
+ 
