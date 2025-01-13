@@ -72,3 +72,30 @@ Train a model to learn  whether or not a review is positive, or negative, for th
 
 ##### Link to open final .ipynb file:
   - [Sprint14_Chapter2_Vectorization](https://github.com/Script-Whiz/Sprint14_Chapter2_TextVectorization/blob/29f3afd8bd4001be2add2f2b11232011e5adbdb3/notebooks/Sprint14_Chapter2_TextVectorization_ver2_final.ipynb)
+
+## Sprint13_SweetTaxi_timeSeries
+A time series project that predicts how many customers the Sweet Taxi Company will have during the next hour.
+
+##### Libraries used:
+- **Pandas**: For data manipulation and analysis.
+- **NumPy**: For numerical computations and array operations.
+- **Plotly Express**: For interactive data visualizations.
+- **Statsmodels**: For statistical computations, time series analysis, and plotting.
+- **Matplotlib**: For data visualization and plotting.
+- **Scikit-learn**: For machine learning implementations and metrics.
+- **XGBoost**: For gradient boosting framework.
+- **pmdarima**: For automatic ARIMA model fitting.
+
+##### Models Used:
+- **Linear Regression**: For basic linear modeling.
+- **Decision Tree Regressor**: For non-linear regression using decision trees.
+- **Random Forest Regressor**: For ensemble learning using multiple decision trees.
+- **Gradient Boosting Regressor**: For boosting-based regression.
+- **XGBoost**: For extreme gradient boosting regression.
+- **ARIMA**: For time series forecasting
+
+##### Link to open final .ipynb file:
+  - [Sprint13_SweetTaxi_timeSeries](https://github.com/Script-Whiz/Sprint13_SweetTaxi_timeSeries/blob/main/notebooks/Sprint13_SweetTaxi_timeSeries_ver4.ipynb)
+
+
+ 
