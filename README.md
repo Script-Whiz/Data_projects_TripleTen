@@ -141,9 +141,26 @@ This project answers 4 questions:
 ##### Models Used:
 - **Linear Regression**: For basic linear modeling.
 - **K-Nearest Neighbors Classifier**: For classification tasks based on nearest neighbors.
+- **Nearest Neighbors**: For unsupervised learning tasks like density estimation and anomaly detection.
 
 ##### Link to open final .ipynb file:
   - [Sprint11_Ins_US_matrix](https://github.com/Script-Whiz/Sprint11_Ins_US_matrix/blob/36aa96674fe6235fff387811f8fabedb3fb9cc4f/notebooks/Sprint11_LinearAlg_ver1.ipynb)
 
+## Sprint10_Gold_Recovery
+Studies the gold purification process. Uses predictive models are built to predict gold levels for the final purification stage.
 
-- **Nearest Neighbors**: For unsupervised learning tasks like density estimation and anomaly detection.
+##### Libaries used:
+- **Pandas**: For data manipulation and analysis.
+- **NumPy**: For numerical computations and array operations.
+- **Matplotlib**: For data visualization.
+- **IPython**: For interactive computing (used for displaying outputs in Jupyter).
+- **Scikit-learn**: For machine learning tasks.
+
+##### Models Used:
+- **Linear Regression**: For basic linear modeling.
+- **Decision Tree Regressor**: For regression using decision trees.
+
+##### Link to open final .ipynb file:
+  - [Sprint10_Gold_Recovery](https://github.com/Script-Whiz/Sprint10_Gold_Recovery/blob/main/notebooks/Gold_Recovery_ver6_final.ipynb)
+
+
