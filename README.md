@@ -118,4 +118,32 @@ Supervised Learning project, to predict car prices for the Rusty Car Company. RM
   - [Sprint12_RustyCar_GradBoost](https://github.com/Script-Whiz/Sprint12_RustyCar_GradBoost/blob/main/notebooks/Sprint12_RustyCar_GradBoost_final.ipynb)
 
 
- 
+## Sprint11_Ins_US_matrix
+This project answers 4 questions:
+
+- Task 1: Find customers who are similar to a given customer.
+- Task 2: Predict whether a new customer is likely to receive an insurance benefit.
+- Task 3: Predict the number of insurance benefits a new customer is likely to receive using a linear regression model. 
+- Task 4: Protect clients' personal data, using masking, or data obfuscation.
+
+##### Libraries used:
+
+- **NumPy**: For numerical computations and array operations.
+- **Pandas**: For data manipulation and analysis.
+- **Math**: For mathematical functions.
+- **Seaborn**: For statistical data visualization.
+- **Scikit-learn**: For various machine learning tasks including linear models, metrics, and preprocessing.
+- **Plotly Express**: For interactive data visualizations.
+- **Streamlit**: For creating web applications for machine learning and data science projects.
+- **PIL (Pillow)**: For image processing.
+- **IPython**: For interactive computing environment (specifically for displaying outputs).
+
+##### Models Used:
+- **Linear Regression**: For basic linear modeling.
+- **K-Nearest Neighbors Classifier**: For classification tasks based on nearest neighbors.
+
+##### Link to open final .ipynb file:
+  - [Sprint11_Ins_US_matrix](https://github.com/Script-Whiz/Sprint11_Ins_US_matrix/blob/36aa96674fe6235fff387811f8fabedb3fb9cc4f/notebooks/Sprint11_LinearAlg_ver1.ipynb)
+
+
+- **Nearest Neighbors**: For unsupervised learning tasks like density estimation and anomaly detection.
