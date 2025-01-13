@@ -20,7 +20,7 @@ Build a model, for Interconnect phone company, that predicts which customers wil
 - **Logistic Regression**: 
 
 ##### Link to open final .ipynb file:
-  - [Final Sprint17_Interconnect_Churn_project file](https://github.com/Script-Whiz/Sprint17_Interconnect_Churn/blob/0f1208183f323112ee2305210d1bb061a3c5d2c9/notebooks/Sprint17_Interconnect_Churn_ver3.ipynb)
+  - [Sprint17_Interconnect_Churn_project](https://github.com/Script-Whiz/Sprint17_Interconnect_Churn/blob/0f1208183f323112ee2305210d1bb061a3c5d2c9/notebooks/Sprint17_Interconnect_Churn_ver3.ipynb)
 
 ## Sprint15_CNN_agePrediction
 Looks at images, and predicts age of customers, to help Good Seed Company adhere to alcohol laws, by not selling to customers under the age of 21.
@@ -46,5 +46,29 @@ Looks at images, and predicts age of customers, to help Good Seed Company adhere
 - **Logistic Regression**:
 
 #####  Link to open final .ipynb file:
-  - [Sprint15_CNN_agePrediction file](https://github.com/Script-Whiz/Sprint15_CNN_agePrediction/blob/d9a305eb2b8b57f4a291af0187024f25ea013340/notebooks/Sprint15_CNN_agePrediction_final_ver.ipynb)
+  - [Sprint15_CNN_agePrediction](https://github.com/Script-Whiz/Sprint15_CNN_agePrediction/blob/d9a305eb2b8b57f4a291af0187024f25ea013340/notebooks/Sprint15_CNN_agePrediction_final_ver.ipynb)
 
+## Sprint14_Chapter2_Vectorization
+Train a model to learn  whether or not a review is positive, or negative, for the Film Junky Reviews Company. Model F1 score must be better than 0.85.
+##### Libraries used:
+- **Math**: For mathematical operations and functions.
+- **NLTK**: For natural language processing tasks and accessing stopwords.
+- **NumPy**: For numerical computations and array operations.
+- **Pandas**: For data manipulation and analysis.
+- **Matplotlib**: For creating static, animated, and interactive visualizations.
+- **Seaborn**: For statistical data visualization based on matplotlib.
+- **TQDM**: For adding progress bars to loops and iterations.
+- **Scikit-learn**: For machine learning tools, including metrics, dummy classifiers, and feature extraction.
+- **Spacy**: For advanced natural language processing tasks.
+- **LightGBM**: For gradient boosting framework using tree-based learning algorithms.
+- **PyTorch**: For deep learning and neural networks.
+- **Transformers**: For state-of-the-art natural language processing models
+
+##### Models Used:
+- **Dummy Classifier**: For baseline model performance.
+- **Logistic Regression**: For binary classification tasks.
+- **LightGBM Classifier**: For gradient boosting classification.
+- **Transformer Models**: For advanced NLP tasks (via the transformers library)
+
+##### Link to open final .ipynb file:
+  - [Sprint14_Chapter2_Vectorization](https://github.com/Script-Whiz/Sprint14_Chapter2_TextVectorization/blob/29f3afd8bd4001be2add2f2b11232011e5adbdb3/notebooks/Sprint14_Chapter2_TextVectorization_ver2_final.ipynb)
