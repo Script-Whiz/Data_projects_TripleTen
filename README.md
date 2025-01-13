@@ -97,5 +97,25 @@ A time series project that predicts how many customers the Sweet Taxi Company wi
 ##### Link to open final .ipynb file:
   - [Sprint13_SweetTaxi_timeSeries](https://github.com/Script-Whiz/Sprint13_SweetTaxi_timeSeries/blob/main/notebooks/Sprint13_SweetTaxi_timeSeries_ver4.ipynb)
 
+## Sprint12_RustyCar_GradBoost
+Supervised Learning project, to predict car prices for the Rusty Car Company. RMSE is used for scoring the model.
+
+##### Libraries used:
+- **Pandas**: For data manipulation and analysis.
+- **NumPy**: For numerical computations and array operations.
+- **Scikit-learn**: For various machine learning tasks, including model training and evaluation.
+- **Matplotlib**: For data visualization.
+
+##### Models Used:
+- **Linear Regression**: For basic linear modeling.
+- **Decision Tree Regressor**: For regression using decision trees.
+- **Random Forest Regressor**: For ensemble regression using multiple decision trees.
+- **Gradient Boosting Regressor**: Implemented via `LGBMRegressor` (LightGBM).
+- **CatBoost Regressor**: For gradient boosting with categorical features
+- **XGB Regressor**: For extreme gradient boosting regression
+
+##### Link to open final .ipynb file:
+  - [Sprint12_RustyCar_GradBoost](https://github.com/Script-Whiz/Sprint12_RustyCar_GradBoost/blob/main/notebooks/Sprint12_RustyCar_GradBoost_final.ipynb)
+
 
  
