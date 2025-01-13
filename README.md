@@ -20,5 +20,5 @@ Build a model that predicts which customers will churn.  The evaluation metric i
 - **Logistic Regression**: 
 
 #### Link to open final .ipynb file:
-  - [Final Sprint17_Interconnect_Churn_project .ipynb file](https://github.com/Script-Whiz/Sprint17_Interconnect_Churn/blob/0f1208183f323112ee2305210d1bb061a3c5d2c9/notebooks/Sprint17_Interconnect_Churn_ver3.ipynb)
+  - [Final Sprint17_Interconnect_Churn_project file](https://github.com/Script-Whiz/Sprint17_Interconnect_Churn/blob/0f1208183f323112ee2305210d1bb061a3c5d2c9/notebooks/Sprint17_Interconnect_Churn_ver3.ipynb)
 
