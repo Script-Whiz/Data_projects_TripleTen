@@ -31,7 +31,5 @@ Build a model that predicts which customers will churn.  The evaluation metric i
   - Imported from `sklearn.linear_model`, commonly used for binary classification problems.
 
 ## Link to open final .ipynb file:
-https://github.com/Script-Whiz/Sprint17_Interconnect_Churn/blob/0f1208183f323112ee2305210d1bb061a3c5d2c9/notebooks/Sprint17_Interconnect_Churn_ver3.ipynb1. [Sprint17_Interconnect_Churn_project](#sprint17_interconnect_churn_project)
-   - Build a model that predicts which customers will churn. The evaluation metric is AUC-ROC, and must have a score greater than or equal to 0.75.
-   - [Final .ipynb file](https://github.com/Script-Whiz/Sprint17_Interconnect_Churn/blob/0f1208183f323112ee2305210d1bb061a3c5d2c9/notebooks/Sprint17_Interconnect_Churn_ver3.ipynb)
+  - [Final .ipynb file](https://github.com/Script-Whiz/Sprint17_Interconnect_Churn/blob/0f1208183f323112ee2305210d1bb061a3c5d2c9/notebooks/Sprint17_Interconnect_Churn_ver3.ipynb)
 
