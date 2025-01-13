@@ -6,3 +6,7 @@
     path = Sprint15_CNN_agePrediction
     url = https://github.com/Script-Whiz/Sprint15_CNN_agePrediction.git
 
+[submodule "Sprint14_Chapter2_TextVectorization"]
+    path = Sprint14_Chapter2_TextVectorization
+    url = https://github.com/Script-Whiz/Sprint14_Chapter2_TextVectorization.git
+
