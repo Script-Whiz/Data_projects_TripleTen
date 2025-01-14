@@ -285,7 +285,7 @@ Use EDA to analyze Instacart ordering habits. Find what are the top 20 items ord
 ## Sprint1_DataCleaning
 Data cleaning, and basic EDA, on the Golden Age of movies,  to discover how the number of votes a movie receives affects its ratings.
 ##### Libraries used:
-- **Pandasi**: For data manipulation and analysis
+- **Pandas**: For data manipulation and analysis
 
 ##### Link to open project:
   - [Sprint1_DataCleaning](https://github.com/Script-Whiz/Sprint1_DataCleaning/blob/4c0782a1f41bf976e489159b3de7dfb3049ffd6c/notebooks/Sprint1_DataCleaning_ver2.ipynb)
