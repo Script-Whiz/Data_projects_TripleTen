@@ -159,7 +159,7 @@ Studies the gold purification process. Uses predictive models are built to predi
 - **Linear Regression**: For basic linear modeling.
 - **Decision Tree Regressor**: For regression using decision trees.
 
-##### Link to open project::
+##### Link to open project:
   - [Sprint10_Gold_Recovery](https://github.com/Script-Whiz/Sprint10_Gold_Recovery/blob/main/notebooks/Gold_Recovery_ver6_final.ipynb)
 
 ## Sprint9_OG_Mining_MLB
@@ -256,3 +256,37 @@ Comparison of auto sales from 1908-2019, using EDA and data visualization, looki
 
 ##### Link to open project:
   - [Sprint4_Auto_Comparison](https://github.com/Script-Whiz/Sprint4_Auto_Comparison/blob/b06dd84fc9e3174ab038488f44378126705ccf79/notebooks/Sprint4_Auto_Comparison_final.ipynb)
+
+## Sprint3_Megaline_Phone_revenue
+Data cleaning and EDA to analyze customers habits for Megaline phone company, and find which phone plan brings in more revenue..
+##### Libraries used:
+- **Pandas: For data manipulation and analysis.
+- **IPython.display: For displaying HTML and other representations in Jupyter notebooks.
+- **NumPy: For numerical computations and handling arrays.
+- **Matplotlib: For creating static plots and visualizations.
+- **Seaborn: For statistical data visualization.
+- **Warnings: To manage warning messages in your code.
+- **Cycler: For creating color cycles for plots.
+- **SciPy Stats: For statistical functions and distributions
+
+##### Link to open project:
+  - [Sprint3_Megaline_Phone_revenue(https://github.com/Script-Whiz/Sprint3_MegalinePhone_revenue/blob/54b720c224ce131da31b00bb94becff36fa52396/notebooks/.ipynb_checkpoints/Megaline_final_ver1-checkpoint.ipynb)
+
+## Sprint2_Instacart_EDA
+Use EDA to analyze Instacart ordering habits. Find what are the top 20 items ordered most frequently?
+##### Libraries used:
+- **Pandas: For data manipulation and analysis
+- **Matplotlib: For creating static plots and visualizations.
+- **IPython.display: For displaying HTML and other representations in Jupyter notebooks
+
+##### Link to open project:
+  - [Sprint2_Instacart_EDA](https://github.com/Script-Whiz/Sprint2_Instacart_EDA/blob/cb8e157544942a87fd65db77dbaaff7fb2be2709/notebooks/Sprint2_Instacart_EDA_ver2.ipynb)
+
+## Sprint1_DataCleaning
+Data cleaning, and basic EDA, on the Golden Age of movies,  to discover how the number of votes a movie receives affects its ratings.
+##### Libraries used:
+- **Pandas: For data manipulation and analysis
+
+##### Link to open project:
+  - [Sprint1_DataCleaning](https://github.com/Script-Whiz/Sprint1_DataCleaning/blob/4c0782a1f41bf976e489159b3de7dfb3049ffd6c/notebooks/Sprint1_DataCleaning_ver2.ipynb)
+
