@@ -19,7 +19,7 @@ Build a model, for Interconnect phone company, that predicts which customers wil
 - **Support Vector Classifier (SVC)**:
 - **Logistic Regression**: 
 
-##### Link to open final .ipynb file:
+##### Link to open project:
   - [Sprint17_Interconnect_Churn_project](https://github.com/Script-Whiz/Sprint17_Interconnect_Churn/blob/0f1208183f323112ee2305210d1bb061a3c5d2c9/notebooks/Sprint17_Interconnect_Churn_ver3.ipynb)
 
 ## Sprint15_CNN_agePrediction
@@ -45,7 +45,7 @@ Looks at images, and predicts age of customers, to help Good Seed Company adhere
 - **Support Vector Classifier (SVC)**:
 - **Logistic Regression**:
 
-#####  Link to open final .ipynb file:
+#####  Link to open project:
   - [Sprint15_CNN_agePrediction](https://github.com/Script-Whiz/Sprint15_CNN_agePrediction/blob/d9a305eb2b8b57f4a291af0187024f25ea013340/notebooks/Sprint15_CNN_agePrediction_final_ver.ipynb)
 
 ## Sprint14_Chapter2_Vectorization
@@ -70,7 +70,7 @@ Train a model to learn  whether or not a review is positive, or negative, for th
 - **LightGBM Classifier**: For gradient boosting classification.
 - **Transformer Models**: For advanced NLP tasks (via the transformers library)
 
-##### Link to open final .ipynb file:
+##### Link to open project:
   - [Sprint14_Chapter2_Vectorization](https://github.com/Script-Whiz/Sprint14_Chapter2_TextVectorization/blob/29f3afd8bd4001be2add2f2b11232011e5adbdb3/notebooks/Sprint14_Chapter2_TextVectorization_ver2_final.ipynb)
 
 ## Sprint13_SweetTaxi_timeSeries
@@ -94,7 +94,7 @@ A time series project that predicts how many customers the Sweet Taxi Company wi
 - **XGBoost**: For extreme gradient boosting regression.
 - **ARIMA**: For time series forecasting
 
-##### Link to open final .ipynb file:
+##### Link to open project:
   - [Sprint13_SweetTaxi_timeSeries](https://github.com/Script-Whiz/Sprint13_SweetTaxi_timeSeries/blob/main/notebooks/Sprint13_SweetTaxi_timeSeries_ver4.ipynb)
 
 ## Sprint12_RustyCar_GradBoost
@@ -114,9 +114,8 @@ Supervised Learning project, to predict car prices for the Rusty Car Company. RM
 - **CatBoost Regressor**: For gradient boosting with categorical features
 - **XGB Regressor**: For extreme gradient boosting regression
 
-##### Link to open final .ipynb file:
+##### Link to open project:
   - [Sprint12_RustyCar_GradBoost](https://github.com/Script-Whiz/Sprint12_RustyCar_GradBoost/blob/main/notebooks/Sprint12_RustyCar_GradBoost_final.ipynb)
-
 
 ## Sprint11_Ins_US_matrix
 This project answers 4 questions:
@@ -143,7 +142,7 @@ This project answers 4 questions:
 - **K-Nearest Neighbors Classifier**: For classification tasks based on nearest neighbors.
 - **Nearest Neighbors**: For unsupervised learning tasks like density estimation and anomaly detection.
 
-##### Link to open final .ipynb file:
+##### Link to open project:
   - [Sprint11_Ins_US_matrix](https://github.com/Script-Whiz/Sprint11_Ins_US_matrix/blob/36aa96674fe6235fff387811f8fabedb3fb9cc4f/notebooks/Sprint11_LinearAlg_ver1.ipynb)
 
 ## Sprint10_Gold_Recovery
@@ -160,7 +159,7 @@ Studies the gold purification process. Uses predictive models are built to predi
 - **Linear Regression**: For basic linear modeling.
 - **Decision Tree Regressor**: For regression using decision trees.
 
-##### Link to open final .ipynb file:
+##### Link to open project::
   - [Sprint10_Gold_Recovery](https://github.com/Script-Whiz/Sprint10_Gold_Recovery/blob/main/notebooks/Gold_Recovery_ver6_final.ipynb)
 
 ## Sprint9_OG_Mining_MLB
@@ -178,7 +177,7 @@ Analyze ore refinery process for Oily Giant Company. Find profit margin, revenue
 ##### Models Used:
 - **Linear Regression**: For basic linear modeling
 
-##### Link to open final .ipynb file:
+##### Link to open project:
   - [Sprint9_OG_Mining_MLB](https://github.com/Script-Whiz/Sprint9_OG_Mining_MLB/blob/main/notebooks/OG_mining_ver5_final.ipynb)
 
 ## Sprint8_Churn_Beta
@@ -195,7 +194,7 @@ Discovering churn rates of customers using supervised learning, One hot encoding
 - **Logistic Regression**: For binary classification problems.
 - **Random Forest Classifier**: For ensemble classification using multiple decision trees
 
-##### Link to open final .ipynb file:
+##### Link to open project:
   - [Sprint8_Churn_Beta](https://github.com/Script-Whiz/Sprint8_Churn_Beta/blob/main/notebooks/Sprint8_BetaBank_Churn_ver6.ipynb)
 
 ## Sprint7_Intro_MachineLearning
@@ -211,7 +210,7 @@ Supervised Learning, and hypertuning of models for MegaLine Phone Company.  Usin
 - **Logistic Regression**: For binary classification problems.
 - **Random Forest Classifier**: For ensemble classification using multiple decision trees.
 
-##### Link to open final .ipynb file:
+##### Link to open project:
   - [Sprint7_Intro_MachineLearning](https://github.com/Script-Whiz/Sprint7_Intro_MachineLearning/blob/main/notebooks/Sprint7_Intro_MachineLearning_version7_final.ipynb)
 
 ## Sprint6_Zuber_rides_time
@@ -222,11 +221,12 @@ Time Series analysis of Zuber rides. Merging databases, EDA, hypothesis testing.
 - **Plotly Express**: For interactive data visualizations.
 - **SciPy Stats**: For statistical functions and distributions
 
-##### Link to open final .ipynb file:
+##### Link to open project:
   - [Sprint6_Zuber_rides_time](https://github.com/Script-Whiz/Sprint6_Zuber_rides_time/blob/main/notebooks/Sprint6_Zuber_rides_time_ver4_final.ipynb)
 
 ## Sprint5_VideoGames_imputation
 Analysis of historic video game sales, from 1980-2016, from the (fictitional) online store called "Ice". This dataset includes sales from North America, Europe, Japan. Sales analysis from those 3 regions, to gain an understanding of which video games will be successful. EDA, data cleaning using imputation.
+ 
 ##### Libraries used:
 - **Pandas: For data manipulation and analysis.
 - **NumPy: For numerical computations and handling arrays.
@@ -237,6 +237,22 @@ Analysis of historic video game sales, from 1980-2016, from the (fictitional) on
 - **Plotly Subplots: For creating subplots in Plotly.
 - **Random: For generating random numbers and selections
  
-##### Link to open final .ipynb file:
+##### Link to open project:
   - [Sprint5_VideoGames_imputation](https://github.com/Script-Whiz/Sprint5_VideoGames_imputation/blob/fc14a3bba74cba808437ce1500ad9e377182d6b4/notebook/games_ver_16.ipynb)
 
+
+## Sprint4_Auto_Comparison
+Comparison of auto sales from 1908-2019, using EDA and data visualization, looking for average auto sales prices, and correlations between auto attributes and sales. Virtual environments were set up for this.
+
+##### Libraries Used:
+- **Pandas: For data manipulation and analysis.
+- **NumPy: For numerical computations and handling arrays.
+- **Plotly Express: For interactive data visualizations.
+- **Seaborn: For statistical data visualization.
+- **Matplotlib.pyplot: For creating static, animated, and interactive visualizations in Python.
+- **SciPy Stats: For statistical functions and distributions.
+- **Plotly Subplots: For creating subplots in Plotly.
+- **Random: For generating random numbers and selections
+
+##### Link to open project:
+  - [Sprint4_Auto_Comparison](https://github.com/Script-Whiz/Sprint4_Auto_Comparison/blob/b06dd84fc9e3174ab038488f44378126705ccf79/notebooks/Sprint4_Auto_Comparison_final.ipynb)
