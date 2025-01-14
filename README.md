@@ -225,5 +225,18 @@ Time Series analysis of Zuber rides. Merging databases, EDA, hypothesis testing.
 ##### Link to open final .ipynb file:
   - [Sprint6_Zuber_rides_time](https://github.com/Script-Whiz/Sprint6_Zuber_rides_time/blob/main/notebooks/Sprint6_Zuber_rides_time_ver4_final.ipynb)
 
-
+## Sprint5_VideoGames_imputation
+Analysis of historic video game sales, from 1980-2016, from the (fictitional) online store called "Ice". This dataset includes sales from North America, Europe, Japan. Sales analysis from those 3 regions, to gain an understanding of which video games will be successful. EDA, data cleaning using imputation.
+##### Libraries used:
+- **Pandas: For data manipulation and analysis.
+- **NumPy: For numerical computations and handling arrays.
+- **Plotly Express: For interactive data visualizations.
+- **Seaborn: For statistical data visualization.
+- **Matplotlib.pyplot: For creating static, animated, and interactive visualizations in Python.
+- **SciPy Stats: For statistical functions and distributions.
+- **Plotly Subplots: For creating subplots in Plotly.
+- **Random: For generating random numbers and selections
  
+##### Link to open final .ipynb file:
+  - [Sprint5_VideoGames_imputation](https://github.com/Script-Whiz/Sprint5_VideoGames_imputation/blob/fc14a3bba74cba808437ce1500ad9e377182d6b4/notebook/games_ver_16.ipynb)
+
