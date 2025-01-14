@@ -25,20 +25,14 @@
 [submodule "Sprint10_Gold_Recovery"]
 	path = Sprint10_Gold_Recovery
 	url = https://github.com/Script-Whiz/Sprint10_Gold_Recovery.git
+
 [submodule "Sprint9_OG_Mining_MLB"]
 	path = Sprint9_OG_Mining_MLB
 	url = https://github.com/Script-Whiz/Sprint9_OG_Mining_MLB.git
+
 [submodule "Sprint8_Churn_Beta"]
 	path = Sprint8_Churn_Beta
 	url = https://github.com/Script-Whiz/Sprint8_Churn_Beta.git
-
-[submodule "Sprint9_OG_Mining_MLB"]
-    path = Sprint9_OG_Mining_MLB
-    url = https://github.com/Script-Whiz/Sprint9_OG_Mining_MLB.git
-
-[submodule "Sprint8_Churn_Beta"]
-    path = Sprint8_Churn_Beta
-    url = https://github.com/Script-Whiz/Sprint8_Churn_Beta.git
 
 [submodule "Sprint7_Intro_MachineLearning"]
     path = Sprint7_Intro_MachineLearning
@@ -59,21 +53,11 @@
 [submodule "Sprint3_MegalinePhone_revenue"]
 	path = Sprint3_MegalinePhone_revenue
 	url = https://github.com/Script-Whiz/Sprint3_MegalinePhone_revenue.git
+
 [submodule "Sprint2_Instacart_EDA"]
 	path = Sprint2_Instacart_EDA
 	url = https://github.com/Script-Whiz/Sprint2_Instacart_EDA.git
+
 [submodule "Sprint1_DataCleaning"]
 	path = Sprint1_DataCleaning
 	url = https://github.com/Script-Whiz/Sprint1_DataCleaning.git
-
-[submodule "Sprint3_MegalinePhone_revenue"]
-    path = Sprint3_MegalinePhone_revenue
-    url = https://github.com/Script-Whiz/Sprint3_MegalinePhone_revenue.git
-
-[submodule "Sprint2_Instacart_EDA"]
-    path = Sprint2_Instacart_EDA
-    url = https://github.com/Script-Whiz/Sprint2_Instacart_EDA.git
-
-[submodule "Sprint1_DataCleaning"]
-    path = Sprint1_DataCleaning
-    url = https://github.com/Script-Whiz/Sprint1_DataCleaning.git
