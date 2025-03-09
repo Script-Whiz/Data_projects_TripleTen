@@ -211,7 +211,7 @@ Supervised Learning, and hypertuning of models for MegaLine Phone Company.  Usin
 - **Random Forest Classifier**: For ensemble classification using multiple decision trees.
 
 ##### Link to open project:
-  - [Sprint7_Intro_MachineLearning](https://github.com/Script-Whiz/Sprint7_Intro_MachineLearning/blob/main/notebooks/Sprint7_Intro_MachineLearning_version7_final.ipynb)
+  - [Sprint7_Intro_MachineLearning](https://github.com/Script-Whiz/Sprint7_Intro_MachineLearning/blob/main/notebooks/Sprint7_Intro_MachineLearning_version8_final.ipynb)
 
 ## Sprint6_Zuber_rides_time
 Time Series analysis of Zuber rides. Merging databases, EDA, hypothesis testing. Looking at data, from competitors, and testing a hypothesis about the impact of weather on ride frequency, identifying the top 10 neighborhoods, in terms of drop-offs, and making conclusions from data visualization.
