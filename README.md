@@ -95,7 +95,7 @@ A time series project that predicts how many customers the Sweet Taxi Company wi
 - **ARIMA**: For time series forecasting
 
 ##### Link to open project:
-  - [Sprint13_SweetTaxi_timeSeries](https://github.com/Script-Whiz/Sprint13_SweetTaxi_timeSeries/blob/main/notebooks/Sprint13_SweetTaxi_timeSeries_ver4.ipynb)
+  - [Sprint13_SweetTaxi_timeSeries](https://github.com/Script-Whiz/Sprint13_SweetTaxi_timeSeries/blob/main/notebooks/Sprint13_SweetTaxi_timeSeries_ver5_final.ipynb)
 
 ## Sprint12_RustyCar_GradBoost
 Supervised Learning project, to predict car prices for the Rusty Car Company. RMSE is used for scoring the model.
@@ -143,7 +143,7 @@ This project answers 4 questions:
 - **Nearest Neighbors**: For unsupervised learning tasks like density estimation and anomaly detection.
 
 ##### Link to open project:
-  - [Sprint11_Ins_US_matrix](https://github.com/Script-Whiz/Sprint11_Ins_US_matrix/blob/36aa96674fe6235fff387811f8fabedb3fb9cc4f/notebooks/Sprint11_LinearAlg_ver1.ipynb)
+  - [Sprint11_Ins_US_matrix](https://github.com/Script-Whiz/Sprint11_Ins_US_matrix/blob/36aa96674fe6235fff387811f8fabedb3fb9cc4f/notebooks/Sprint11_LinearAlg_ver2_final.ipynb)
 
 ## Sprint10_Gold_Recovery
 Studies the gold purification process. Uses predictive models are built to predict gold levels for the final purification stage.
